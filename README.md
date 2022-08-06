@@ -7,9 +7,7 @@ step2
 cd team-portfolio-dockerized
 
 step3
-
 #create docker image
-
 docker build -t harshit0571/portfolio .
 
 step4
